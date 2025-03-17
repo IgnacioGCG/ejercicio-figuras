@@ -9,7 +9,7 @@ dot.node('Carlos', 'Carlos (Windsor) de Gales')
 dot.node('Diana', 'Diana de Gales (nacida Spencer)')
 
 # Adding edges
-dot.edge('Kate', 'Guillermo', label='casados')
+dot.edge('Kate', 'Guille', label='casados')
 dot.edge('Guillermo', 'Carlos', label='hijo')
 dot.edge('Guillermo', 'Diana', label='hijo')
 
